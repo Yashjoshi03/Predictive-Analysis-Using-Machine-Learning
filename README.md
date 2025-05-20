@@ -1,5 +1,5 @@
 # Predictive-Analysis-Using-Machine-Learning
-**COMPANY: CODTECH IT SOLUTIONS
+COMPANY: CODTECH IT SOLUTIONS
 
 NAME: YASH JOSHI
 
@@ -9,7 +9,7 @@ DOMAIN: DATA ANALYTICS
 
 DURATION: 12 WEEKS
 
-MENTOR: NEELA SANTOSH**
+MENTOR: NEELA SANTOSH
 
 # 🌦️ Weather Forecast - Rain Prediction Using Machine Learning
 
@@ -54,5 +54,9 @@ This project builds a machine learning classification model to predict whether i
 - **Feature Importance:** A horizontal bar chart ranks features based on their contribution to predictions.
 
 ## Output:
-
-
+![Image](https://github.com/user-attachments/assets/6b844748-b368-41b3-ab98-462b0a6a1cd0)
+![Image](https://github.com/user-attachments/assets/86723df0-7ce2-4fb2-a5e6-f20c2b82e7ed)
+![Image](https://github.com/user-attachments/assets/bc81183a-154f-492f-8a26-5c99bc037c20)
+![Image](https://github.com/user-attachments/assets/46fc27e5-cc3b-428c-a028-d6df18f26167)
+![Image](https://github.com/user-attachments/assets/3e0c7ab3-5351-4ad5-911b-bad407127566)
+![Image](https://github.com/user-attachments/assets/eb43136b-b15b-4346-bf67-6ab6c8fdf017)
